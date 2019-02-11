@@ -1,2 +1,2 @@
 # Tsunami
-Tsunami from BMKG
+Tsunami from BMKG Indonesia
